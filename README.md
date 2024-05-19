@@ -43,10 +43,9 @@ The program consists of functions to calculate BMI, describe BMI categories, and
 
 #Example of the gui
 
-![bmi](https://github.com/Psykies/bmi_Calculator_using_tkinterGUI/assets/32191652/8c3315ab-352f-49ef-8d4e-9b70b6dda3ad)
-![Screenshot 2024-05-19 142347](https://github.com/Psykies/bmi_Calculator_using_tkinterGUI/assets/32191652/e9c226ec-22b9-4a47-906e-7b8b6a009691)
+![bmi](https://github.com/Psykies/bmi_Calculator_using_tkinterGUI/assets/32191652/dc9150b3-3c17-46c6-a2ff-9ac2e6738468)
 
-
+![Screenshot 2024-05-19 142347](https://github.com/Psykies/bmi_Calculator_using_tkinterGUI/assets/32191652/fa75e7fd-17dd-4c41-bd52-e51254d4cc3c)
 
 
 ## License
